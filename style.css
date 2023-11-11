@@ -15,7 +15,7 @@ body {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(background4.jpg);
+	background: url(background5.jpg);
 	background-repeat: repeat;
 	background-size: 1200px;
 
@@ -29,8 +29,8 @@ body {
 }
 
 h1 {
-   font-family: Arial
-   font-size: 80px;
+   font-family: TimesNewRoman;
+   font-size: 60px;
   color: black;
   text-align: center;
   margin: 0px;
@@ -75,7 +75,7 @@ p {
 img {
   border-radius: 50%;
   height: auto;
-  max-width: 20%;
+  max-width: 10%;
   
  
 
@@ -146,9 +146,7 @@ img {
 .personalStatement{
   background-color: white;	
   padding: 2%;
-  border-style: ridge;
-  border-color: 	goldenrod;
-  border-width: 5px;
+ 
 }
 .education{
   background-color: #EBF0FF
@@ -177,7 +175,7 @@ padding: 2%;
 .uniimg{
   border-radius: 0%;
   height: auto;
-  max-width: 15%;
+  max-width: 10%;
   outline-style: none; ;
   outline-color: gold;
   outline-width: 6px;
